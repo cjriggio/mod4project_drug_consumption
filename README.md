@@ -29,3 +29,6 @@ With the use surveyed drug consumption data that included demographics as well a
   
 **Results:**
 ![Results](visualizations/results.png)
+
+As you can see the KNN model did the best job ofcorrectly predicting whether or not someone used hard drugs with an F1 Score of 0.82 and an accuracy of 0.88 
+![KNN](visualizations/knn_confusion_matrix.png)
