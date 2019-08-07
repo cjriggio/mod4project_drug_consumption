@@ -1,6 +1,6 @@
 # Predicting Hard Drug Use 
 ## The Challenge: 
-With the use surveyed drug consumption data that included demographics as well as personality inventory data, use classification models to predict the use of hard drugs. 
+With the use of surveyed drug consumption data that included demographics as well as personality inventory data, use classification models such as Logistic Regression, Random Forest, XGBoost and K-Nearest Neighbors to predict the use of hard drugs. 
 ## The Data
 **Demopgrapic data**
   * Age 
@@ -21,7 +21,7 @@ With the use surveyed drug consumption data that included demographics as well a
   With this in mind, the way I decided to define hard drug use was any observations of the use of amphetamine, benzos, cocaine, crack, ecstasy and heroin within the last decade, which split the data as follows:
   ![Clean vs Used](visualizations/clean_vs_used.png)
   
-**Features Included in the final models:**
+**Features included in the final models:**
   * Gender, Age, Education
   * Alcohol use within the last 30 days
   * Cannabis use within the last 30 days 
